@@ -6,6 +6,7 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
+ * Comment from netbeans today
  * A model class to model Student Objects
  * @author Ali Hassan, 2019
  */
