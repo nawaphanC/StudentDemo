@@ -6,6 +6,7 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
+ * Commenting on GitHub
  * A model class to model Student Objects
  * @author Ali Hassan, 2019
  */
